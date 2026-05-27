@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse
-SQL data warehouse project built following DataWithBaraa's end-to-end curriculum. Applying medallion architecture (Bronze/Silver/Gold layers) to ingest, clean, and model data using SQL Server. In progress.
+Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics. In progress.
