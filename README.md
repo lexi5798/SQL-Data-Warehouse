@@ -36,6 +36,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution. 
 
 ## 👋 About Me
-Hi There@ I'm **Lexi**. I am currently a data abstractor and am working to become an analyst in trust and safety. My goal is to use data to help protect minors and young adults from exploitation and abuse on social platforms. 
+Hi there! I'm **Lexi**. I am currently a data abstractor and am working to become an analyst in trust and safety. My goal is to use data to help protect minors and young adults from exploitation and abuse on social platforms. 
 
 ---
