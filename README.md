@@ -43,6 +43,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution. 
 
 ## 👋 About Me
-Hi, I'm **Lexi**. I'm a data analyst transitioning into trust and safety, with a focus on using data to support safer online environments. 
+Hi, I'm **Lexi**. I'm working on my SQL skills and transitioning into trust and safety, with a focus on using data to support safer online environments. 
 
 ---
